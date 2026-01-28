@@ -1,5 +1,5 @@
 import  java.util.*;
-public class two{
+public class lab328jan{
     public static void main(String [] args){
         int a = Integer.parseInt((args[0]));
         int b = Integer.parseInt((args[1]));

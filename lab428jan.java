@@ -1,5 +1,5 @@
 import  java.util.*;
-public class three{
+public class lab428jan{
     public static void main(String [] args){
         String a = args[0];
         String b = args[1];
